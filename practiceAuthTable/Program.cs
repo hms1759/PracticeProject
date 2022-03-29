@@ -49,6 +49,7 @@ namespace practiceAuthTable
                         builder.AddJsonFile($"appsettings.{context.HostingEnvironment.EnvironmentName}.json", optional: true);
                         builder.AddEnvironmentVariables();
                     })
+
                     .UseStartup<Startup>();
                 });
 

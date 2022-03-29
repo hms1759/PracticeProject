@@ -1,0 +1,11 @@
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\bin\Debug\net5.0\practiceAuthTable.Shared.deps.json
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\bin\Debug\net5.0\practiceAuthTable.Shared.dll
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\bin\Debug\net5.0\ref\practiceAuthTable.Shared.dll
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\bin\Debug\net5.0\practiceAuthTable.Shared.pdb
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\obj\Debug\net5.0\practiceAuthTable.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\obj\Debug\net5.0\practiceAuthTable.Shared.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\obj\Debug\net5.0\practiceAuthTable.Shared.AssemblyInfo.cs
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\obj\Debug\net5.0\practiceAuthTable.Shared.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\obj\Debug\net5.0\practiceAuthTable.Shared.dll
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\obj\Debug\net5.0\ref\practiceAuthTable.Shared.dll
+C:\Users\hp\Desktop\Practice\practiceAuthTable.Shared\obj\Debug\net5.0\practiceAuthTable.Shared.pdb

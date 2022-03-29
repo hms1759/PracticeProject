@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\obj\Debug\net5.0\practiceAuthTable.Core.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\obj\Debug\net5.0\practiceAuthTable.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\obj\Debug\net5.0\practiceAuthTable.Core.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\obj\Debug\net5.0\practiceAuthTable.Core.AssemblyInfo.cs
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\obj\Debug\net5.0\practiceAuthTable.Core.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\bin\Debug\net5.0\practiceAuthTable.Core.deps.json
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\bin\Debug\net5.0\practiceAuthTable.Core.runtimeconfig.json
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\bin\Debug\net5.0\practiceAuthTable.Core.runtimeconfig.dev.json
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\bin\Debug\net5.0\practiceAuthTable.Core.dll
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\bin\Debug\net5.0\ref\practiceAuthTable.Core.dll
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\bin\Debug\net5.0\practiceAuthTable.Core.pdb
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\obj\Debug\net5.0\practiceAuthTable.Core.dll
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\obj\Debug\net5.0\ref\practiceAuthTable.Core.dll
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\obj\Debug\net5.0\practiceAuthTable.Core.pdb
+C:\Users\hp\Desktop\Practice\praticeAuthTable.Core\obj\Debug\net5.0\practiceAuthTable.Core.genruntimeconfig.cache

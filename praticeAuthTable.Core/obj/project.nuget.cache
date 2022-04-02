@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "A8CDx+WSEgE+2T/BSzuGKzcd3Ta5HjBIgJZbhn/Dro/Y5uv1rljzy9gAn8KO01KyPz28t/l+O3kury6qqlW6nQ==",
+  "dgSpecHash": "63aBZ9RldJB5l8o2R2hlyiIvHRCDeXnMXafSQhThjwS2PnoagvIq7QBECWvq/WOtLP1cb4HJFgS8UQQ+GvOWoQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\praticeAuthTable.Core\\practiceAuthTable.Core.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\praticeAuthTable.Core\\practiceAuthTable.Core.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.hosting.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.aspnetcore.hosting.server.abstractions\\2.2.0\\microsoft.aspnetcore.hosting.server.abstractions.2.2.0.nupkg.sha512",

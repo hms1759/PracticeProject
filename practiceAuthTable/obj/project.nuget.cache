@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9soxNfeCaYktJGAcq1cvUnaNKthJ8qWHVEAK772Ebto+/Ap6pjlUZKUPCOanmRDnZlJgK0Y1n2Ps5VOe4KEg1A==",
+  "dgSpecHash": "y7TD/IrfFIt+xMfZbpHqfcpx0spW+NHh4BkyFUhSIzZXlz9fln32FrK0WZpwqDB/vBFYlYWHbV1uH7IWmWZ33w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable\\practiceAuthTable.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable\\practiceAuthTable.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\dbup-core\\4.5.0\\dbup-core.4.5.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\dbup-sqlserver\\4.5.0\\dbup-sqlserver.4.5.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

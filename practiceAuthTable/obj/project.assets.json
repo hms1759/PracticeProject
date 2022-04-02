@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     "net5.0": {
+      "Dapper/2.0.123": {
+        "type": "package",
+        "compile": {
+          "lib/net5.0/Dapper.dll": {}
+        },
+        "runtime": {
+          "lib/net5.0/Dapper.dll": {}
+        }
+      },
       "dbup-core/4.5.0": {
         "type": "package",
         "dependencies": {
@@ -2793,7 +2802,8 @@
           "Microsoft.EntityFrameworkCore": "5.0.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.0",
           "Microsoft.Extensions.Configuration.Json": "6.0.0",
-          "Microsoft.Extensions.Hosting.Abstractions": "6.0.0"
+          "Microsoft.Extensions.Hosting.Abstractions": "6.0.0",
+          "practiceAuthTable.Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/practiceAuthTable.Core.dll": {}
@@ -2806,6 +2816,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "Dapper": "2.0.123",
           "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
         },
         "compile": {
@@ -2818,6 +2829,24 @@
     }
   },
   "libraries": {
+    "Dapper/2.0.123": {
+      "sha512": "RDFF4rBLLmbpi6pwkY7q/M6UXHRJEOerplDGE5jwEkP/JGJnBauAClYavNKJPW1yOTWRPIyfj4is3EaJxQXILQ==",
+      "type": "package",
+      "path": "dapper/2.0.123",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Dapper.png",
+        "dapper.2.0.123.nupkg.sha512",
+        "dapper.nuspec",
+        "lib/net461/Dapper.dll",
+        "lib/net461/Dapper.xml",
+        "lib/net5.0/Dapper.dll",
+        "lib/net5.0/Dapper.xml",
+        "lib/netstandard2.0/Dapper.dll",
+        "lib/netstandard2.0/Dapper.xml"
+      ]
+    },
     "dbup-core/4.5.0": {
       "sha512": "CR00QMAtHjfeMhwxFC5haoA0q4KZ5s6Y/AdZaT6oFjySik2eFEqVasuLgWSPKSiR7ti3z01BtiR7aD3nVckAsg==",
       "type": "package",
@@ -9111,11 +9140,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable\\practiceAuthTable.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable\\practiceAuthTable.csproj",
       "projectName": "practiceAuthTable",
-      "projectPath": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable\\practiceAuthTable.csproj",
+      "projectPath": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable\\practiceAuthTable.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable\\obj\\",
+      "outputPath": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -9136,11 +9165,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj"
+            "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj"
             },
-            "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\praticeAuthTable.Core\\practiceAuthTable.Core.csproj": {
-              "projectPath": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\praticeAuthTable.Core\\practiceAuthTable.Core.csproj"
+            "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\praticeAuthTable.Core\\practiceAuthTable.Core.csproj": {
+              "projectPath": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\praticeAuthTable.Core\\practiceAuthTable.Core.csproj"
             }
           }
         }

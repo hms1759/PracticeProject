@@ -20,7 +20,7 @@ using System.Threading.Tasks;
 
 namespace practiceAuthTable
 {
-    public class Startup
+   public partial  class Startup
     {
 
         private ILogger<Startup> _logger;

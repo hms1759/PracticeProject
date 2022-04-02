@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "47vO+IBxL7ERyV3uXJTcXp1Cd3NZxYb7GW6TZF54DjQcKwEgC6dJwkQHDyiiUqxBvWO1w1pY+/BFV5LNqJ8yMQ==",
+  "dgSpecHash": "4VqjX84r975T6uZ3BIzTfF6U5t5+hBVB9AV2swjfbw6prI/vQKtQF6+tgb8uAIto2AxHuvOv8k4pPGhVhF3tiQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
   ],
   "logs": []

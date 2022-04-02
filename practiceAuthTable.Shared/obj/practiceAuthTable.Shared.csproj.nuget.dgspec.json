@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj": {}
+    "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj": {
+    "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj",
         "projectName": "practiceAuthTable.Shared",
-        "projectPath": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj",
+        "projectPath": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable.Shared\\practiceAuthTable.Shared.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Desktop\\PracticeGithubFolder\\practiceAuthTable.Shared\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Desktop\\Practice\\PracticeGithubFolder\\practiceAuthTable.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.123, )"
+            },
             "Microsoft.Extensions.DependencyInjection.Abstractions": {
               "target": "Package",
               "version": "[5.0.0, )"
